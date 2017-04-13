@@ -1,0 +1,7 @@
+CMakeFiles/
+photospline-*
+CMakeCache.txt
+*.so
+*.cmake
+docs/Makefile
+cmake_*

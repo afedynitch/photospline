@@ -71,7 +71,7 @@ LIST (APPEND core_HEADERS
   ${CMAKE_SOURCE_DIR}/include/photospline/splinetable.h
   ${CMAKE_SOURCE_DIR}/include/photospline/detail/bspline_eval.h
   ${CMAKE_SOURCE_DIR}/include/photospline/detail/bspline_multi.h
-  ${CMAKE_SOURCE_DIR}/include/photospline/detail/aux.h
+  ${CMAKE_SOURCE_DIR}/include/photospline/detail/psaux.h
   ${CMAKE_SOURCE_DIR}/include/photospline/detail/convolve.h
   ${CMAKE_SOURCE_DIR}/include/photospline/detail/fit.h
   ${CMAKE_SOURCE_DIR}/include/photospline/detail/fitsio.h
